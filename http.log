@@ -1,0 +1,25 @@
+{"message":"rpc error: code = InvalidArgument desc = signature is invalid"}
+{"message":"rpc error: code = InvalidArgument desc = signature is invalid"}
+{"token":{"access":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiQUNDRVNTIiwiaXNzIjoiYmx1bSIsInN1YiI6ImI2ZTg1NDA3LWZjMzMtNGY4Yi04ZWUyLTY0MmMwMjQzNTQxYSIsImV4cCI6MTcyNjI4MTQ4NiwiaWF0IjoxNzI2Mjc3ODg2fQ.O1NYuMczuQK-0rfyrSwF9ha5V4QZ4NyBQ3TrrE0G6Oc","refresh":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiUkVGUkVTSCIsImlzcyI6ImJsdW0iLCJzdWIiOiJiNmU4NTQwNy1mYzMzLTRmOGItOGVlMi02NDJjMDI0MzU0MWEiLCJleHAiOjE3MjYzNjQyODYsImlhdCI6MTcyNjI3Nzg4Nn0.z4ipRXUlHkOZbtPhjzyhGhfRPK3If6j8JCwSb7tQuBY","user":{"id":{"id":"b6e85407-fc33-4f8b-8ee2-642c0243541a"},"username":"Tuyulan31"}},"justCreated":false}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726277887467,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"2.408"}}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726277946800,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"2.526"}}
+{"message":"Not Found"}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726278066198,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"2.764"}}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726278106557,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"2.846"}}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726278774683,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"4.182"}}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726278852944,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"4.338"}}
+{"message":"Not Found"}
+{"limitInvitation":10,"usedInvitation":0,"amountForClaim":"0","referralToken":"DpiJEvl4w4","percentFromFriends":10,"percentFromFriendsOfFriends":2.5,"canClaim":false,"canClaimAt":null}
+{"availableBalance":"9473.8","playPasses":3,"isFastFarmingEnabled":false,"timestamp":1726278904150,"farming":{"startTime":1726276683422,"endTime":1726305483422,"earningsRate":"0.002","balance":"4.44"}}

@@ -1,0 +1,19 @@
+How to install module in folder bots :
+1.termux version
+python -m venv blum
+source blum/bin/activate
+
+2. Windows version ( use cmd / powershell ) :
+python3 -m venv blum
+blum\scripts\activate
+
+after done , typing  :
+pip install -r requirements.txt
+or, after error
+pip3 install -r requirements.txt
+
+edit and paste your query_id in file data.txt
+after done, save and  use command :
+python bot.py
+or ,  after error notice
+python3  bot.py
